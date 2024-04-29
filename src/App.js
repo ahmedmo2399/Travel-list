@@ -55,6 +55,7 @@ function Item({ item }) {
         {item.description}
       </span>
       <button>❌</button>
+      <button>❌</button>
     </li>
   );
 }
